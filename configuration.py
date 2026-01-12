@@ -22,6 +22,6 @@ class Config:
 
     # LLM
     LLM_MODEL = "llama-3.1-8b-instant"
-    GROQ_API_KEY = "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"
-
+    import os
+    api_key = os.getenv("GROQ_API_KEY")
 config = Config()
