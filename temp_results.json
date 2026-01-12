@@ -1,0 +1,12 @@
+[
+  {
+    "question_text": "Did Bionano Genomics, Inc. mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
+    "value": "N/A",
+    "references": []
+  },
+  {
+    "question_text": "Did Seiko Epson Corporation announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
+    "value": "N/A",
+    "references": []
+  }
+]

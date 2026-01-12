@@ -2,10 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+rag_env
 # C extensions
 *.so
-
+photo/pdfs
+cache
 # Distribution / packaging
 .Python
 build/
